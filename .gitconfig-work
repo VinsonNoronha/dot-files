@@ -1,0 +1,14 @@
+[user]
+    name = Vinson Noronha
+    email = work@email.com
+[color]
+    status = auto
+    branch = auto
+    interactive = auto
+    diff = auto
+[commit]
+    gpgsign = true
+[include]
+    path = ~/.gitalias
+[credential]
+    helper = osxkeychain

@@ -1,0 +1,4 @@
+[includeIf "gitdir:~/github.developer.allianz.io/"]
+  path = ~/.gitconfig-work
+[includeIf "gitdir:~/github.com/VinsonNoronha/"]
+  path = ~/.gitconfig-personal
